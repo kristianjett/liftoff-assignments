@@ -7,12 +7,32 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Our project is a web app for the company Startland. This app will be a space for elementary teachers
+to access content for continued learning, submit their assignments, and comment on eachother's work.
+The app will also be a space for administrators to post announcements for teachers and track progress
+as modules are completed. 
+ 
 ### Features
-Include Features here
+- Students (teachers) will be able to create a new user account and log in to access content.
+- Upon login, students will see announcements from administrators.
+- Students will be able to progress through different modules and submit assignments. Students can also comment on others' assignments once submitted.
+- Admistrator will be able to log in and post updates and announcements. 
+- App will track student progress as modules are completed.
+ 
 ### Technologies
-Include Technologies here
+We will be using the MEAN tech stack, with:
+- MongoDB or MySQL
+- Express.js
+- Angular
+- Node
+ 
 ### What I'll Have to Learn
-Include what you will need to learn here
+Over the course of this project, some things I'll need to learn include:
+- Expanding upon knowledge of Angular framework taught in Unit 1
+- Connecting Angular with a persistent database (using either MongoDB or MySQL)
+- Embedding youtube videos and PDFs into a webpage.
+- Adding authentication to a project with Angular. 
+ 
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/K0vFgOML/team-logan-liftoff-project-board
+
