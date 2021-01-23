@@ -10,8 +10,8 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
-* ![My PDF wireframes](/wireframe_images/StartlandPortal-wireframes.pdf)
-* ![Chris C's Login Wireframe](/wireframe_images/Chris-c_login-wireframe.PNG)
+* ![My PDF wireframes](~/wireframe_images/StartlandPortal-wireframes.pdf)
+* ![Chris C's Login Wireframe](~/wireframe_images/Chris-c_login-wireframe.PNG)
 
 ### Project Tracker
 
